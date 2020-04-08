@@ -1,0 +1,5 @@
+__pycache__/
+dbsqlite3
+env
+.vsccode/
+venv
